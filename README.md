@@ -20,15 +20,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeliKaracaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="VeliKaracaaa's GitHub stats" width="48%" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=VeliKaracaaa&langs_count=8&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VeliKaracaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="VeliKaracaaa's GitHub stats" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeliKaracaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeliKaracaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeliKaracaaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VeliKaracaaa&theme=tokyonight" alt="Profile Details" width="49%" />
 </p>
 
 ---
