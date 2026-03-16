@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBD41B&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Coffee+Addict;Problem+Solver;Continuous+Learner">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained">
-  <img src="https://img.shields.io/github/followers/VeliKaracaaa?label=Follow&style=social" alt="Followers">
-</p>
-
 ---
 
 ### 🚀 About Me
