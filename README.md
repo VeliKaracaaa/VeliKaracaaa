@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm VeliKaracaaa 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBD41B&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Coffee+Addict;Problem+Solver;Continuous+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBD41B&center=true&vCenter=true&width=435&lines=💻+Fullstack+Developer;☕+Coffee+Addict;🛠️+Modern+Tech+Enthusiast">
 </p>
 
 ---
