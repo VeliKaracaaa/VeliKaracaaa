@@ -20,14 +20,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,docker,aws" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
